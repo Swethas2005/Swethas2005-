@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
+  <img src="https://streak-stats.demolab.com?user=Swethas2005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
@@ -65,7 +65,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Swethas2005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Swethas2005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
 </div>
 
 ###
